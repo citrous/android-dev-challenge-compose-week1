@@ -11,13 +11,18 @@ Android app for puppy adoption. A list of puppies looking for foster parents wil
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
+
 ### LightMode
-<img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/puppy-adoption-light-list.jpg" width="260">
-<img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/puppy-adoption-light-detail.jpg" width="260">
+<div>
+  <img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/screenshot_1.png" width="260">
+  <img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/screenshot_2.png" width="260">
+</div>
 
 ### DarkMode
-<img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/puppy-adoption-dark-list.jpg" width="260">
-<img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/puppy-adoption-dark-detail.jpg" width="260">
+<div>
+  <img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/screenshot_3.png" width="260">
+  <img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/screenshot_4.png" width="260">
+</div>
 
 ## License
 ```
