@@ -12,12 +12,12 @@ Android app for puppy adoption. A list of puppies looking for foster parents wil
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 ### LightMode
-<img src="/results/puppy-adoption-list-light.png" width="260">
-<img src="/results/puppy-adoption-detail-light.png" width="260">
+<img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/puppy-adoption-light-list.jpg" width="260">
+<img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/puppy-adoption-light-detail.jpg" width="260">
 
 ### DarkMode
-<img src="/results/puppy-adoption-list-dark.png" width="260">
-<img src="/results/puppy-adoption-detail-dark.png" width="260">
+<img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/puppy-adoption-dark-list.jpg" width="260">
+<img src="https://github.com/citrous/android-dev-challenge-compose-week1/blob/main/results/puppy-adoption-dark-detail.jpg" width="260">
 
 ## License
 ```
